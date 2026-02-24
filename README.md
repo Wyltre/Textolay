@@ -27,7 +27,7 @@ Bunu yapabilmek için **Gemini Flash Lite API** kullanıyoruz.
 - **Geri Alma:** Düzeltme sonrası "Geri Al" butonu ile orijinal metne dönün.
 - **Düzeltme Sayacı:** Toplam düzeltme sayınızı takip edin.
 - **Tema Desteği:** Açık / Koyu / Otomatik tema.
-- **Bildirim Sistemi:** Animasyonlu sayfa içi bildirimler.
+- **Bildirim Sistemi:** Sayfa içi bildirimler.
 - **Froala Editör Uyumu:** Techolay editörüyle tam uyumlu, draft otomatik güncellenir.
 - **Cross-Browser:** Chrome ve Firefox'ta sorunsuz çalışır.
 - **Otomatik Yeniden Deneme:** API kota sınırına ulaşıldığında otomatik bekleme ve yeniden deneme.
